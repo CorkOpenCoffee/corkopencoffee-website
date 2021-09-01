@@ -1,4 +1,4 @@
-baseURL: https://localhost
+baseURL: 
 languageCode: en-us
 defaultContentLanguage: en
 title: Cork OpenCoffee
@@ -6,6 +6,7 @@ theme: cupper-hugo-theme
 googleAnalytics: 
 disqusShortname: 
 enableGitInfo: false
+publishDir: docs
 
 taxonomies:
   tag: tags

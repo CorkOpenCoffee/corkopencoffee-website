@@ -13,4 +13,5 @@ You can find some other posts about OCC, particularly [the initial announcement]
 
 Please contact [Conor](mailto:conor@conoroneill.com) if you have any questions about the site or if you have access to the original images we used here.
 
-The source files for this blog are [on GitHub]().
+The source files for this blog are [on GitHub](https://github.com/CorkOpenCoffee/corkopencoffee-website).
+

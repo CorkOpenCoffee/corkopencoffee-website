@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ewrite on Cork OpenCoffee</title>
+    <link>/tags/ewrite/</link>
+    <description>Recent content in ewrite on Cork OpenCoffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Oct 2008 14:07:20 +0000</lastBuildDate><atom:link href="/tags/ewrite/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Questions for Tom Keane?</title>
+      <link>/2008/10/17/questions-for-tom-keane/</link>
+      <pubDate>Fri, 17 Oct 2008 14:07:20 +0000</pubDate>
+      
+      <guid>/2008/10/17/questions-for-tom-keane/</guid>
+      <description>As Tom had to fly off the other day, many people didn&amp;rsquo;t get a chance to ask him a question. Head on over to the eWrite Blog and Gordon will pass on any questions you have there.</description>
+    </item>
+    
+    <item>
+      <title>Want to help (or need help) applying to Seedcamp?</title>
+      <link>/2008/07/23/want-to-help-or-need-help-applying-to-seedcamp/</link>
+      <pubDate>Wed, 23 Jul 2008 08:23:24 +0000</pubDate>
+      
+      <guid>/2008/07/23/want-to-help-or-need-help-applying-to-seedcamp/</guid>
+      <description>The is a re-post from Web2Ireland:
+Gordon Murray of eWrite has come up with a brilliant suggestion for SeedCamp. He thinks we should crowdsource some of the applications. There are plenty of people who have experience in filling out application forms for the likes of Incubation Programmes, EI Grants, the SeedCorn competition etc. Why not use that expertise to help those applying to SeedCamp who may never have dealt with this sort of thing before?</description>
+    </item>
+    
+  </channel>
+</rss>

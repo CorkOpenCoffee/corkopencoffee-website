@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>jumpstart on Cork OpenCoffee</title>
+    <link>/tags/jumpstart/</link>
+    <description>Recent content in jumpstart on Cork OpenCoffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Apr 2009 21:52:52 +0000</lastBuildDate><atom:link href="/tags/jumpstart/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This week&#39;s OpenCoffee in The Rubicon in CIT</title>
+      <link>/2009/04/01/this-weeks-opencoffee-in-the-rubicon-in-cit/</link>
+      <pubDate>Wed, 01 Apr 2009 21:52:52 +0000</pubDate>
+      
+      <guid>/2009/04/01/this-weeks-opencoffee-in-the-rubicon-in-cit/</guid>
+      <description>This week&amp;rsquo;s Cork OpenCoffee is in the Rubicon building in CIT from 10am-12pm.
+The demo/talk slot is about a new business idea from John Peavoy, Bartosz Ptaszynski and Phoebe Bright. It is about helping companies jumpstart their software ideas. They would like to share their plans so far and hear your views on whether the business will work, and if so, what markets they could target and who they should involve.</description>
+    </item>
+    
+  </channel>
+</rss>

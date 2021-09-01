@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bap on Cork OpenCoffee</title>
+    <link>https://localhost/tags/bap/</link>
+    <description>Recent content in bap on Cork OpenCoffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Aug 2008 19:54:25 +0000</lastBuildDate><atom:link href="https://localhost/tags/bap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next OpenCoffee in NSC on Friday</title>
+      <link>https://localhost/2008/08/13/next-opencoffee-in-nsc-on-friday/</link>
+      <pubDate>Wed, 13 Aug 2008 19:54:25 +0000</pubDate>
+      
+      <guid>https://localhost/2008/08/13/next-opencoffee-in-nsc-on-friday/</guid>
+      <description>The next Cork OCC is on this Friday in the board room of the NSC in Mahon. It is a bit different from our normal get-together for two reasons. The first is that it starts at 9am instead of the usual 10. The second is that it&amp;rsquo;s a joint event with SohoSolo. This means we&amp;rsquo;ll have a bigger group that usual. There won&amp;rsquo;t be a formal demo but we will hear a short intro about SohoSolo and the other services of CorkBIC who have been strong supporters of OpenCoffee since it started.</description>
+    </item>
+    
+  </channel>
+</rss>

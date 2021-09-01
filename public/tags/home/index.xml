@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Cork OpenCoffee</title>
+    <link>https://localhost/tags/home/</link>
+    <description>Recent content in Home on Cork OpenCoffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 11 Aug 2011 14:19:22 +0000</lastBuildDate><atom:link href="https://localhost/tags/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Open Coffee BBQ</title>
+      <link>https://localhost/2011/08/11/open-coffee-bbq/</link>
+      <pubDate>Thu, 11 Aug 2011 14:19:22 +0000</pubDate>
+      
+      <guid>https://localhost/2011/08/11/open-coffee-bbq/</guid>
+      <description>BBQ is booked for Friday 23rd September at 8pm at SOHO, 77 Grand Parade, Cork. The bar-b-que will take place on the fourth floor on the private barbecue deck and bar. There are still places available and it should be a brilliant night. The menu for the evening will be as follows
+BREADS: A selection of fresh breads. DIPS: Chef’s recommendations of dip’s BAKED POTATO: BBQ’d piping hot baked potatoes. COLESLAW: Julienne of carrot and Dutch cabbage lightly seasoned and finished with real mayonnaise.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>deployment on Cork OpenCoffee</title>
+    <link>https://localhost/tags/deployment/</link>
+    <description>Recent content in deployment on Cork OpenCoffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 05 May 2008 14:55:26 +0000</lastBuildDate><atom:link href="https://localhost/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tapasol to Demo on May 23rd</title>
+      <link>https://localhost/2008/05/05/tapasol-to-demo-on-may-23rd/</link>
+      <pubDate>Mon, 05 May 2008 14:55:26 +0000</pubDate>
+      
+      <guid>https://localhost/2008/05/05/tapasol-to-demo-on-may-23rd/</guid>
+      <description>The guys from Tapasol have built some very interesting bare-metal provisioning and deployment software. I remember looking into this area in EMC a few years back and being disappointed by what was out there.
+It&amp;rsquo;s great to see a local company doing something in this space, particularly one that came about due to the Motorola closure. The guys also recently won an award in this years Genesis Programme.
+On Friday the 23rd they will talk about the challenges of deploying software on Unix servers and give a demonstration of their automated solution to build a Unix server from bare metal with a single command.</description>
+    </item>
+    
+  </channel>
+</rss>

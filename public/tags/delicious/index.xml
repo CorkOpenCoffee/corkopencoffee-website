@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>delicious on Cork OpenCoffee</title>
+    <link>https://localhost/tags/delicious/</link>
+    <description>Recent content in delicious on Cork OpenCoffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Nov 2009 19:56:13 +0000</lastBuildDate><atom:link href="https://localhost/tags/delicious/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cork Open Coffee Friday the 13th</title>
+      <link>https://localhost/2009/11/11/cork-open-coffee-friday-the-13th/</link>
+      <pubDate>Wed, 11 Nov 2009 19:56:13 +0000</pubDate>
+      
+      <guid>https://localhost/2009/11/11/cork-open-coffee-friday-the-13th/</guid>
+      <description>Hi OCCers,
+This weeks Cork Open Coffee is in the Rubicon Centre, CIT Campus Bishopstown on Friday 13th from 10am - 12pm. It will be held downstairs in the lobby area as the Seminar Room is booked.
+The demo slot will be taken up by one of our newest regulars, Israel Finnerty. Israel &amp;amp; his partner Dawn Manning will be showcasing their new company FireSale.ie - Ireland&amp;rsquo;s first Buy, Sell, Haggle &amp;amp; Auction website.</description>
+    </item>
+    
+    <item>
+      <title>Cork Open Coffee Friday the 16th</title>
+      <link>https://localhost/2009/10/14/cork-open-coffee-friday-the-16th/</link>
+      <pubDate>Wed, 14 Oct 2009 10:36:37 +0000</pubDate>
+      
+      <guid>https://localhost/2009/10/14/cork-open-coffee-friday-the-16th/</guid>
+      <description>This weeks Cork Open Coffee is** Friday the 16th at 10am**, in the **Rubicon Centre** in Bishopstown in Cork.
+If you havent been to the Rubicon Centre before, take a look at their new site which has some pics and a map http://www.rubiconcentre.ie/
+This Week, Joe Scanlon will be demoing a new site that he dreamt up and runs called LittleQuiz. LittleQuiz is a great site allowing you to enter competitions every week to win some pretty great stuff!</description>
+    </item>
+    
+  </channel>
+</rss>

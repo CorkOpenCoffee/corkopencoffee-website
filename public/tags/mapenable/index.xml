@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mapenable on Cork OpenCoffee</title>
+    <link>https://localhost/tags/mapenable/</link>
+    <description>Recent content in mapenable on Cork OpenCoffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2008 08:43:49 +0000</lastBuildDate><atom:link href="https://localhost/tags/mapenable/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Next two OpenCoffees</title>
+      <link>https://localhost/2008/05/29/next-two-opencoffees/</link>
+      <pubDate>Thu, 29 May 2008 08:43:49 +0000</pubDate>
+      
+      <guid>https://localhost/2008/05/29/next-two-opencoffees/</guid>
+      <description>The next Cork OpenCoffee is on Friday June 6th in Luigi Malone&amp;rsquo;s on Emmet Place at 10am. The one after that is back to the Rubicon Centre in CIT.
+We won&amp;rsquo;t have a formal demo slot in Luigi&amp;rsquo;s but as always everyone should feel free to whip out their laptops to show us what they are working on.
+The Demo Slot on the 20th will have Paul Harrington show us MapEnable.</description>
+    </item>
+    
+  </channel>
+</rss>

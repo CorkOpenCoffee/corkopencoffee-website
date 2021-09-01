@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tom Doherty on Cork OpenCoffee</title>
+    <link>https://localhost/tags/tom-doherty/</link>
+    <description>Recent content in Tom Doherty on Cork OpenCoffee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Jun 2009 14:13:11 +0000</lastBuildDate><atom:link href="https://localhost/tags/tom-doherty/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Slides from The Embedded Entrepreneur</title>
+      <link>https://localhost/2009/06/26/slides-from-the-embedded-entrepreneur/</link>
+      <pubDate>Fri, 26 Jun 2009 14:13:11 +0000</pubDate>
+      
+      <guid>https://localhost/2009/06/26/slides-from-the-embedded-entrepreneur/</guid>
+      <description>This morning Tom Doherty from Beyond Targets spoke to Corks Open Coffee about a concept called The Embedded Entrepreneur.
+Toms talk, directed at Entrepreneurs encouraged those aiming to create a business to put their idea to the test as early as possible. Embed a pre-start entrepreneur in a host customers site for a fixed period of time and only launch a start-up once proof of concept has taken place within a host customer.</description>
+    </item>
+    
+  </channel>
+</rss>

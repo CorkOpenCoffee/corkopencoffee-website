@@ -1,9 +1,9 @@
-baseURL: 
+baseURL: https://corkopencoffee.org 
 languageCode: en-us
 defaultContentLanguage: en
 title: Cork OpenCoffee
 theme: cupper-hugo-theme
-googleAnalytics: 
+googleAnalytics: G-5Y7DJSGY6L
 disqusShortname: 
 enableGitInfo: false
 publishDir: docs
